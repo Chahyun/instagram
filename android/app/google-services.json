@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "462180809936",
+    "project_id": "fluttergram-d94a8",
+    "storage_bucket": "fluttergram-d94a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462180809936:android:bd9b082fa06b979c2132d5",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462180809936-pmre1m4maaekjtd7mq9q1d0n6l8add7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI8ykXvYQLEm4BpO5xZ65b-Zc8bCY7oXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462180809936-pmre1m4maaekjtd7mq9q1d0n6l8add7e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462180809936-9jnmcd1a6n0dc0b6ue6naikqhaag6fv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hyun.instagram"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462180809936:android:7abc280219ce795b2132d5",
+        "android_client_info": {
+          "package_name": "com.hyun.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462180809936-pmre1m4maaekjtd7mq9q1d0n6l8add7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI8ykXvYQLEm4BpO5xZ65b-Zc8bCY7oXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462180809936-pmre1m4maaekjtd7mq9q1d0n6l8add7e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462180809936-9jnmcd1a6n0dc0b6ue6naikqhaag6fv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hyun.instagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
